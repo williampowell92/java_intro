@@ -1,14 +1,14 @@
 # Compiled languages
-Examples are:
+Examples are: C#, Java, C++, Objective-C
 
-Advantage:
+Advantage: Once compiled can be run over and over again without reinterpreting.
 
-Disadvantage:
+Disadvantage: Harder to write, testing can be harder as it has to be recompiled every time.
 
 
 # Interpreted languages
-Examples are:
+Examples are: Javascript, PHP, Python,
 
-Advantage:
+Advantage: Easier to write, test and can be run on the fly.
 
-Disadvantage:
+Disadvantage: Runs slower as the code has the be interpreted every time it is run.

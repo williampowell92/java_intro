@@ -1,0 +1,3 @@
+The programmer writes a Java program, the JVM compiler is used (also called javac) to generate a bytecode file. This bytecode file can be used on any platform that has Java installed. The bytecode file is not an executable file and therefore cannot be run by the computer directly. Instead, a Java interpreter is used. Each platform will have it's own interpreted addressing the specific issues for that platform, allowing it to be used on any platform.
+
+Java can be run faster by compiling the bytecode file into an executable file, the downside of this is that the executable file will only work on the platform is has been compiled on
